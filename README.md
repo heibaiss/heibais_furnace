@@ -4,7 +4,7 @@
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-brightgreen.svg)](https://minecraft.net/)
 [![Forge](https://img.shields.io/badge/Forge-47.3.0+-orange.svg)](https://files.minecraftforge.net/)
 
-<img width="512" height="256" alt="Furnace" src="https://github.com/user-attachments/assets/cf0b4662-af09-410a-872c-a6dd43d7575d" />
+<img width="512" height="256" alt="Furnace" src="https://github.com/user-attachments/assets/2fc0f020-a91e-41b8-b30e-5c4975325304" />
 
 ### 这是一个来自heibai的熔炉，他能一次性烧炼熔炉内的全部物品。
 
