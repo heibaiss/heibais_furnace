@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.heibai.furnace.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "heibais_furnace.refmap.json",
+  "mixins": [
+    "AbstractFurnaceBlockEntityMixin",
+    "AbstractFurnaceBlockEntityAccessor"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
